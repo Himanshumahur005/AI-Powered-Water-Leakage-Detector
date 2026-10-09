@@ -1,0 +1,6 @@
+[mqtt]
+host = "broker.hivemq.com"
+port = 1883
+username = "water"
+password = "water@123"
+topic = "waterleak/CHANGE_ME_1234/meter1/flow"
